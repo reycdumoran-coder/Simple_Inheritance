@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\bin\Debug\Dumoran_Simple_Inheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\bin\Debug\Dumoran_Simple_Inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\bin\Debug\Dumoran_Simple_Inheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\obj\Debug\Dumoran_Simple_Inheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\obj\Debug\Dumoran_Simple_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\obj\Debug\Dumoran_Simple_Inheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\obj\Debug\Dumoran_Simple_Inheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Simple_Inheritance\Dumoran_Simple_Inheritance\Dumoran_Simple_Inheritance\obj\Debug\Dumoran_Simple_Inheritance.exe.config
